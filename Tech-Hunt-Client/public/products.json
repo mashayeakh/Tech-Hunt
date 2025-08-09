@@ -1,0 +1,18 @@
+[
+    {
+        "productName": "Gemini AI",
+        "productImage": "https://logowik.com/content/uploads/images/google-ai-gemini91216.logowik.com.webp",
+        "description": "Google's productivity suite enhanced with Gemini AI features, offering intelligent assistance across Docs, Sheets, and Slides.",
+        "ownerName": "Sundar Pichai",
+        "ownerImage": "https://via.placeholder.com/100",
+        "ownerEmail": "sundar@google.com",
+        "tags": [
+            "AI",
+            "Productivity",
+            "Collaboration"
+        ],
+        "externalLink": "https://gemini.google.com/",
+        "upvotes": 0,
+        "timestamp": "2025-01-20T14:30:00Z"
+    }
+]
